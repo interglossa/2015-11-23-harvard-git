@@ -1,3 +1,5 @@
+This is a change from jgrier.
+
 This is the README for the git class at Harvard...
 
 The website for today's lesson can  be found here:
