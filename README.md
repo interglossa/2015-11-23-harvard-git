@@ -10,3 +10,6 @@ http://xkcd.com/1597
 
 http://xkcd.com/1296 - please write good commit messages
 
+Git will help you with
+http:www.phdcomics.com/comics/archive.php?comicid=1531
+
