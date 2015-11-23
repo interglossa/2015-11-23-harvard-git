@@ -5,6 +5,7 @@ The website for today's lesson can  be found here:
 
 Notes on git lesson on software in reference (novice URL).
 
+Link to the etherpad: http://pad.software-carpentry.org/2015-11-23-harvard
 
 
 
